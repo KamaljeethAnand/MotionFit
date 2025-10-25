@@ -8,9 +8,8 @@
 Players can interact with the game world using **body gestures** detected through a **webcam** — no special equipment needed.
 
 > Move to play, play to move — MotionFit transforms your physical actions into a game.
-> Popular games included are Subway Surfers, Angry Birds, Hill Climb Racing.
 
----
+
 
 ## 🚩 Problem Statement
 
@@ -21,6 +20,7 @@ A sedentary lifestyle has become a global concern, contributing to chronic disea
 
 ## ✨ Key Features
 
+- 🎮 **Popular games** – Includes popular games like Subway Surfers, HillClimb Racing, Angry Birds, Temple Run. 
 - 🎮 **Gesture-Based Control** – Use natural body movements to control gameplay.  
 - 🧍 **No Extra Equipment** – Works using standard webcams or phone cameras.  
 - ⚡ **Lightweight** – Optimized for smooth performance even on low-end systems.  
@@ -78,26 +78,9 @@ To create a healthier future by merging **technology and fitness** — transform
 
 ---
 
-## 🏁 Installation & Usage (Prototype Example)
-
 ### Prerequisites
 - Python 3.10 or above  
 - Unity Engine  
 - Webcam  
 - Node.js (for optional web frontend)
-
-### Steps
-```bash
-# Clone the repository
-git clone https://github.com/<yourusername>/motionfit.git
-cd motionfit
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the backend (gesture detection)
-python app.py
-
-# Launch Unity/Web frontend
-# Begin your interactive fitness journey!
 
