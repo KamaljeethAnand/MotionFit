@@ -45,7 +45,7 @@ A sedentary lifestyle has become a global concern, contributing to chronic disea
 
 | Layer | Technologies |
 |--------|--------------|
-| **Frontend** | Unity / Web-based UI |
+| **Frontend* | Tkinter |
 | **Backend** | Python / C# |
 | **APIs & Communication** | Socket Programming |
 | **AI/ML Tools** | TensorFlow / OpenCV / Mediapipe |
@@ -80,7 +80,5 @@ To create a healthier future by merging **technology and fitness** — transform
 
 ### Prerequisites
 - Python 3.10 or above  
-- Unity Engine  
-- Webcam  
-- Node.js (for optional web frontend)
+- Webcam
 
